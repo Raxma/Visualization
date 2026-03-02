@@ -36,16 +36,16 @@ Built transaction-style records from multi-crime code fields and ran Apriori + a
 Visualized relationships using networkx (graph representation of frequent co-occurrence)
 
 ## Repository structure
-notebooks/
-  Visualization.ipynb
-output/                     # exported charts/maps for review (recommended to commit)
-data/                        # local only (dataset is private; ignored by git)
-  README.md                  # explains private dataset policy
-.env                         # local only (ignored)
-.env.example                 # committed template
-README.md
-requirements.txt
-.gitignore
+- notebooks/
+-- Visualization.ipynb
+- output/                     # exported charts/maps for review (recommended to commit)
+- data/                        # local only (dataset is private; ignored by git)
+-- README.md                  # explains private dataset policy
+- .env                         # local only (ignored)
+- .env.example                 # committed template
+- README.md
+- requirements.txt
+- .gitignore
 
 
 ## Dataset note (private data)
