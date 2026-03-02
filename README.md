@@ -117,5 +117,4 @@ Contact
 
 Rasman Khurshid — Nottingham, UK
 rasmakhan37@gmail.com
- | +44 7459 079848
 
