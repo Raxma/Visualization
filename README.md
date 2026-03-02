@@ -2,7 +2,7 @@
 
 This repository is a visualization-first analytics project built in Python to explore incident-level records over time and communicate patterns through clear, stakeholder-friendly visuals. The work focuses on making a messy real-world dataset analysis-ready (date parsing, categorical normalization, missing-value policy), then producing time-series trends, category comparisons, and spatial visuals.
 
-### Why this matters (KTP relevance): this is the same workflow you’d use in a digital transformation project—turn raw operational data into a reliable analytics layer, then surface actionable insights via repeatable visual pipelines.
+Why this matters (KTP relevance): this is the same workflow you’d use in a digital transformation project—turn raw operational data into a reliable analytics layer, then surface actionable insights via repeatable visual pipelines.
 
 ## What I built
 1) Data cleaning + governance-style decisions
